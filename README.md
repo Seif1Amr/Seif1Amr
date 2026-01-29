@@ -4,8 +4,6 @@
 - 👨‍💻 All of my projects are available at [https://drive.google.com/drive/folders/1ivfUFPE9TbJ5gid21yxZU5HF8W9JW3xV?usp=drive_link](https://drive.google.com/drive/folders/1ivfUFPE9TbJ5gid21yxZU5HF8W9JW3xV?usp=drive_link)
 
 - 📫 How to reach me **seifamrelsaha@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
