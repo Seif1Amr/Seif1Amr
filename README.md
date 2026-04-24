@@ -31,13 +31,11 @@ Some of the diverse projects I have worked on include:
 <!-- Add more projects without detailed descriptions -->
 
 ## GitHub Insights
-Despite a small follower count, my GitHub profile demonstrates a wide exploration of technologies and domains. I am dedicated to creating and contributing to various projects, showcasing my versatile skills and collaborative nature.
+My GitHub profile demonstrates a wide exploration of technologies and domains. I am dedicated to creating and contributing to various projects, showcasing my versatile skills and collaborative nature.
 
 ---
 
 Feel free to explore more of my projects and contributions on [GitHub](https://github.com/Seif1Amr). Thank you for stopping by! 🚀
 
-[![](https://github-readme-stats.vercel.app/api?username=Seif1Amr)](https://github.com/Seif1Amr)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Seif1Amr)](https://github.com/Seif1Amr)
-[![trophy](https://github-profile-trophy.vercel.app/?username=Seif1Amr)](https://github.com/Seif1Amr)
 [![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
