@@ -4,25 +4,25 @@
 - 👨‍💻 All of my projects are available at [https://drive.google.com/drive/folders/1ivfUFPE9TbJ5gid21yxZU5HF8W9JW3xV?usp=drive_link](https://drive.google.com/drive/folders/1ivfUFPE9TbJ5gid21yxZU5HF8W9JW3xV?usp=drive_link)
 
 ## About Me
-I am a passionate full-stack developer with hands-on experience in building applications for web and mobile platforms. My skill set comprises various languages such as Kotlin, JavaScript, TypeScript, HTML, CSS, Swift, and Dart.
+I am a Software Engineer with hands-on experience in building full software applications for web and mobile platforms. My skill set comprises various languages such as JavaScript, TypeScript, HTML, CSS, and Dart.
 
 **Programming Languages:**
-Bash - C - C++ - C# - Dart - Go - Java - JavaScript - Kotlin - Matlab - Perl - PHP - Python - TypeScript
+C++ - C# - Dart - TypeScript - JavaScript - Kotlin  - PHP - Python
 
 **Frameworks & Libraries:**
-Angular - AngularJS - Bootstrap - CanvasJS - ChartJS - Django - Express - Flutter - Next.js - Pandas - PyTorch - React - Redux - Sass - Spring - Symfony - Tailwind - TensorFlow - Vue.js - Vuetify - Webpack
+Angular - AngularJS - Bootstrap - CanvasJS - ChartJS - Django - Express - Flutter - Next.js - Pandas - PyTorch - React - Redux - Sass - Spring - Symfony - Tailwind - TensorFlow - Vue.js
 
 **Databases:**
-Cassandra - CockroachDB - MariaDB - MongoDB - MSSQL - MySQL - Oracle - PostgreSQL - Realm - Redis - SQLite
+MongoDB - MSSQL - MySQL - PostgreSQL - Redis - SQLite - Oracle
 
 **DevOps, Cloud & Infrastructure:**
-AWS - Azure - CircleCI - Docker - Elasticsearch - GCP - Git - Jenkins - Kafka - Kubernetes - Linux - Nginx - Vagrant
+AWS - Azure - Docker - Elasticsearch - Git - Jenkins - Kafka - Kubernetes - Nginx - Vagrant
 
 **Design & Tools:**
-Android - Appwrite - Arduino - Cypress - Figma - Firebase - Framer - GraphQL - HTML5 - IFTTT - Invision - Jasmine - Jest - Mocha - Photoshop - Postman - Selenium - Sketch - N8N - Unity - Unreal Engine - Zapier
+Android - Figma - Firebase - Framer - GraphQL - HTML5 - Jest - Mocha - Postman - Selenium - N8N - Zapier
 
 ## Projects Overview
-Some of the diverse projects I have worked on include:
+Some of the diverse public projects I have worked on include:
 - **SIM Management App using Kotlin Multiplatform**.
 - **Tik Tak Toe Game using .NET**.
 - **Online Gaming MERN Stack App**.
